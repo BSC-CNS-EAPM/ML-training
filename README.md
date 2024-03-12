@@ -1,5 +1,5 @@
 # ML-training
-This reposotory contains jupyter notebooks/python code to apply knowledge obtained during EAPML seminars.
+This repository contains jupyter notebooks/python code to apply knowledge obtained during EAPML seminars.
 
 ## 1st seminar: Introduction to Neural Networks
 As dummy data, a XOR data set is created. The aim is to create a neural network to classify correctly the data points. 
